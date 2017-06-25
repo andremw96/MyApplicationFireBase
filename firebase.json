@@ -1,0 +1,21 @@
+{
+	"Artists": {
+		"artist_id_1":{
+			"name":"Atif Aslam",
+			"genre":"Rock"
+		},
+		"artist_id_2":{
+			"name":"Arijit Singh",
+			"genre":"Rock"
+		}
+	},
+
+	"Tracks": {
+		"artist_id_1":{
+			"track_id_1":{
+				"name":"Taj dar e haram",
+				"rating":"5"
+			}
+		}
+	}
+}
